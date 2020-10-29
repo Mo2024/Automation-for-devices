@@ -1,0 +1,1 @@
+nircmd setdefaultsounddevice "Headphones" 1

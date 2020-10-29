@@ -1,0 +1,1 @@
+TASKKILL /IM Spotify.exe
